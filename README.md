@@ -4,7 +4,7 @@
 Book Saver is an application that pulls the data from the NYT Best Sellers Lists, and allows the user to view them. There's a homepage that starts with a popular section that displays 4 of the current #1 books, and then a bunch of filters the user can click through to view the current books on all the non-deprecated NYT Bestsellers Lists. When a user clicks on a book, they'll be brought to a new page displaying more info about the book, and give a couple of buttons for the user to have quick access to sites they can purchase the book from. There's also a login page and an account registration page that allows a user to connect their google account or create a new account on the app, all authenticated through Google Firebase.
 
 ## Project Viewing
-Unfortunately, since the app uses Secret API Keys through Google Firebase, it's unable to be pulled down and run locally. However, it's fully usable [here](https://trevorfitz0.github.io/Book-Saver)
+Unfortunately, since the app uses Secret API Keys through Google Firebase, it's unable to be pulled down and run locally. However, it's fully usable [here](https://danielcurtin.github.io/book-saver)
 
 <details>
 <summary> <h2>Preview</h2> </summary>
