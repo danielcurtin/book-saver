@@ -41,6 +41,7 @@ class App extends Component {
 
   getTopBooks() {
     if (this.state.loading) {
+      setTimeout(() => this.getTopBooks(), 300);
       return;
     };
 
